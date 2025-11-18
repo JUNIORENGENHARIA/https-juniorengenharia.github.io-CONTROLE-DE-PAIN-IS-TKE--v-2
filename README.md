@@ -1,4 +1,4 @@
-[index.html (2).html](https://github.com/user-attachments/files/23610112/index.html.2.html?v=2)
+[index.html (2).html](https://github.com/user-attachments/files/23610112/index.html.2.html?)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
